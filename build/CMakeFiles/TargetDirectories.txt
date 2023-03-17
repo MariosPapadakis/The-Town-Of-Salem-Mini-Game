@@ -1,0 +1,5 @@
+C:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254/build/CMakeFiles/my-project.exe.dir
+C:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254/build/player/CMakeFiles/PlayerLib.dir
+C:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254/build/player/CMakeFiles/RoundLib.dir

@@ -1,0 +1,70 @@
+
+>>> THIS IS AN OVERVIEW OF THE GAME! <<<
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- THE NUMBER OF PLAYERS IN THE GAME: 20
+- THE NUMBER OF ROUNDS: 9
+- THE GANGSTER'S NAME: marios_papadakis_
+- THE DOCTOR'S NAME: pandelis_vas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+/// ROUND 1 ///
+
+THE GANGSTER KILLED: pandelis_vas
+
+THE TOWN VOTED TO KILL: _.manosp._
+
+/// ROUND 2 ///
+
+THE GANGSTER KILLED: sofoklis_giamn
+
+THE TOWN VOTED TO KILL: __.mihail._
+
+/// ROUND 3 ///
+
+THE GANGSTER KILLED: giannoulis_tasos
+
+THE TOWN VOTED TO KILL: antokar_
+
+/// ROUND 4 ///
+
+THE GANGSTER KILLED: lydia.tsi
+
+THE TOWN VOTED TO KILL: sylvianakay
+
+/// ROUND 5 ///
+
+THE GANGSTER KILLED: arv.nikolas
+
+THE TOWN VOTED TO KILL: st4m3l0s
+
+/// ROUND 6 ///
+
+THE GANGSTER KILLED: panos.tsag
+
+THE TOWN VOTED TO KILL: empath1a
+
+/// ROUND 7 ///
+
+THE GANGSTER KILLED: __lolass_
+
+THE TOWN VOTED TO KILL: _xatzhma
+
+/// ROUND 8 ///
+
+THE GANGSTER KILLED: jim_spanak
+
+THE TOWN VOTED TO KILL: RoyalRaccoon
+
+/// ROUND 9 ///
+
+THE GANGSTER KILLED: _gkiosk_
+
+THE TOWN VOTED TO KILL: pap.jr23
+
+
+>>> THE GANGSTER WON THE GAME <<<
+
+~~~ +-+-+-+-+ +-+-+-+-+ ~~~
+~~~ |G|A|M|E| |O|V|E|R| ~~~
+~~~ +-+-+-+-+ +-+-+-+-+ ~~~
+

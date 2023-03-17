@@ -1,0 +1,10 @@
+^C:\USERS\MARIO\ONEDRIVE - MINISOFT E.E\CSD\LESSONS\HY-150  (C++)\ASSIGNMENTS\ASSIGNMENT2_AM5254\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254" "-BC:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254/build" --check-stamp-file "C:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

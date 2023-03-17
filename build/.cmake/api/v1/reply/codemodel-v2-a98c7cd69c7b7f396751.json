@@ -1,0 +1,404 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "player",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "player",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "my-project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-c26749b20314281c4949.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "PlayerLib::@6e497030d9506a5b7385",
+					"jsonFile" : "target-PlayerLib-Debug-d45e4707485a92e49f57.json",
+					"name" : "PlayerLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RoundLib::@6e497030d9506a5b7385",
+					"jsonFile" : "target-RoundLib-Debug-4657b2a5e477a66db411.json",
+					"name" : "RoundLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-63904efa2b5bb1d7f628.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my-project.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my-project.exe-Debug-4e4429a823e721dd8639.json",
+					"name" : "my-project.exe",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "player",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "player",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "my-project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-c26749b20314281c4949.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "PlayerLib::@6e497030d9506a5b7385",
+					"jsonFile" : "target-PlayerLib-Release-139630c4893427a3e3b1.json",
+					"name" : "PlayerLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RoundLib::@6e497030d9506a5b7385",
+					"jsonFile" : "target-RoundLib-Release-eb4c104a771d8b365000.json",
+					"name" : "RoundLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-63904efa2b5bb1d7f628.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my-project.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my-project.exe-Release-74da054bb593210ed23e.json",
+					"name" : "my-project.exe",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "player",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "player",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "my-project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-c26749b20314281c4949.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "PlayerLib::@6e497030d9506a5b7385",
+					"jsonFile" : "target-PlayerLib-MinSizeRel-5059fd9d4ed097f4f27d.json",
+					"name" : "PlayerLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RoundLib::@6e497030d9506a5b7385",
+					"jsonFile" : "target-RoundLib-MinSizeRel-305ddb2fdec43429e059.json",
+					"name" : "RoundLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-63904efa2b5bb1d7f628.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my-project.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my-project.exe-MinSizeRel-f28c0faaf5839a226a17.json",
+					"name" : "my-project.exe",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "player",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "player",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "my-project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-c26749b20314281c4949.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "PlayerLib::@6e497030d9506a5b7385",
+					"jsonFile" : "target-PlayerLib-RelWithDebInfo-9d929931bf0523e8bb1c.json",
+					"name" : "PlayerLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "RoundLib::@6e497030d9506a5b7385",
+					"jsonFile" : "target-RoundLib-RelWithDebInfo-743b73f42323be49ae4c.json",
+					"name" : "RoundLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-63904efa2b5bb1d7f628.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my-project.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my-project.exe-RelWithDebInfo-50edb51c04824f77a463.json",
+					"name" : "my-project.exe",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254/build",
+		"source" : "C:/Users/mario/OneDrive - minisoft E.E/CSD/Lessons/HY-150  (C++)/ASSIGNMENTS/Assignment2_AM5254"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
